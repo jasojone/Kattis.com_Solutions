@@ -18,5 +18,5 @@ Code your way up to the top and get noticed by everyone! Represent your country 
 # Get hired
 Get hired by great companies world wide. Take a look at who is hiring right now. Solve problems on Kattis and share the solutons with potential employers.
 
-Welcome to the Kattis Problem Archive. Here you can find hundreds of programming problems to solve. If you're new here you're very much welcome!
-[Kattis](https://open.kattis.com/problems)
+# See the problems 
+[Kattis problem set](https://open.kattis.com/problems)
